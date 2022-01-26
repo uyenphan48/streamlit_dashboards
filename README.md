@@ -1,5 +1,5 @@
 # Python Stock Analysis
-This web app includes 4 dashboards: [➡️ Go to web app](https://share.streamlit.io/uyenphan48/streamlit_dashboards/main/stock_dashboards.py)
+This web app includes 4 dashboards: [➡️ Go to web app](https://share.streamlit.io/uyenphan48/stock_analysis/main/stock_analysis.py)
 
 ### 1. Overview Charts
 Imports charts from finviz.com with closing price in the last 6 months for the interested stocks. It gives an overview of the stock prices and trends.
