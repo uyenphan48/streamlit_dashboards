@@ -18,3 +18,7 @@ Imports raw data from Yahoo Finance and forecasts price for the selected stocks 
 - Shows an overview of porforlio values, profit and lost.
 - Portforlio breakdown by stock quantity and cost.
 - This was developed for my personal use (using fixed API keys). For future, will improve it for other people use.
+
+### An overview of the app:
+https://user-images.githubusercontent.com/95778324/151162960-e96e9b32-3765-42ad-9905-a42524a81a2c.mp4
+
